@@ -1,0 +1,33 @@
+#wrapper-canvas canvas
+{
+    max-width: 100%;
+}
+.hero
+{
+    width: 90px;
+    height: 45px;
+    margin-top: -10px;
+    margin-left: 10px;
+    padding: 0%;
+    /* background: #a9a9a9; */
+    display: flex;
+    align-items: right;
+    justify-content: center;
+}
+.track
+{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.track img
+{
+    width: 30px;
+    margin-right: 115px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.track div
+{
+    flex: 1;
+}
